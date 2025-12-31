@@ -3,22 +3,22 @@ import { ArrowRight } from 'lucide-react';
 const programs = [
   {
     title: 'School Activities',
-    description: 'Nurturing curiosity and creativity in our youngest learners through play-based learning and hands-on exploration.',
+    description: 'Nurturing creativity, curiosity, and confidence through a wide range of co-curricular activities such as art, music, debates, quizzes, and hands-on learning experiences that support overall personality development.',
     image: '/images/sc1.jpg',
   },
   {
     title: 'Sports',
-    description: 'Building strong foundations in core subjects while developing critical thinking, collaboration, and communication skills.',
+    description: 'Promoting physical fitness, teamwork, and sportsmanship through regular sports activities, athletics, yoga, and outdoor games that help students build strength, discipline, and a healthy lifestyle.',
     image: '/images/sc2.jpg',
   },
   {
     title: 'School Clubs',
-    description: 'Preparing students for university and beyond with rigorous academics, leadership opportunities, and career guidance.',
+    description: 'Encouraging leadership, collaboration, and special interests through various clubs such as science club, eco club, cultural club, and literary club, helping students explore their talents beyond academics.',
     image: '/images/sc3.jpg',
   },
   {
     title: 'School Events',
-    description: 'Preparing students for university and beyond with rigorous academics, leadership opportunities, and career guidance.',
+    description: 'Creating memorable learning experiences through cultural programs, annual functions, festivals, competitions, and celebrations that foster confidence, creativity, and active participation among students.',
     image: '/images/sc4.jpg',
   },
 ];

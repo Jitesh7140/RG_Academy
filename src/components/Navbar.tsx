@@ -18,9 +18,10 @@ const menuItems = [
     label: "Academics",
     href: "#",
     submenu: [
-      { label: "Early Years", href: "/" },
-      { label: "Primary School", href: "/" },
-      { label: "Middle & Senior School", href: "/" },
+      { label: "School Activities", href: "/" },
+      { label: "Sports", href: "/" },
+      { label: "School Clubs", href: "/" },
+      { label: "School Events", href: "/" },
     ],
   },
   {
