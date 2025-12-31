@@ -104,7 +104,7 @@ export default function Welcome() {
             className="rounded-2xl overflow-hidden shadow-2xl"
           >
             <img
-              src="/src/Images/staff/school.jpg "
+              src="/images/staff/school.jpg "
               alt="Teacher with students"
               className="w-full h-full object-cover"
             />

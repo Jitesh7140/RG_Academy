@@ -1,5 +1,5 @@
 import { ArrowRight } from 'lucide-react';
-import heroBg from "../Images/rgacademy1.jpeg";
+import heroBg from "/images/rgacademy1.jpeg";
 
 
 export default function Hero() {

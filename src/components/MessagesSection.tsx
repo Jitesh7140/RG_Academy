@@ -11,19 +11,19 @@ const messages: Message[] = [
     role: "Chairman Vision & Mission",
     text: "R.G. Academy is all set to commitment of providing quality education for the holistic development of young learners. I look forward to engage with students, educators families...",
     image:
-      "/src/Images/staff/found.jpg",
+      "/images/staff/found.jpg",
   },
   {
     role: "Director's Message",
     text: "We strongly believe, “Children must be taught how to think and what not to think. At RG Academy our focus is not just on the approved syllabus but also on 360 degree ..",
     image:
-    "/src/Images/staff/direc.jpeg",
+    "/images/staff/direc.jpeg",
   },
   {
     role: "Principal",
     text: "Real meaning of education is to create an environment which not only helps children learn well but also inspires them to recognize and explore their own potential.",
     image:
-      "/src/Images/staff/prin.jpg",
+      "/images/staff/prin.jpg",
   },
 ];
 

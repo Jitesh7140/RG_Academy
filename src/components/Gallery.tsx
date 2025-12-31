@@ -1,14 +1,14 @@
 import { ArrowRight } from 'lucide-react';
 
 const images = [
-  '/src/Images/Gallery/rg1.jpg',
-  '/src/Images/Gallery/rg2.jpg',
-  '/src/Images/Gallery/rg3.jpg',
-  '/src/Images/Gallery/rg4.jpg',
-  '/src/Images/Gallery/rg5.jpg',
-  '/src/Images/Gallery/rg6.jpg',
-  '/src/Images/Gallery/rg7.jpg',
-  '/src/Images/Gallery/rg8.jpg',
+  '/images/Gallery/rg1.jpg',
+  '/images/Gallery/rg2.jpg',
+  '/images/Gallery/rg3.jpg',
+  '/images/Gallery/rg4.jpg',
+  '/images/Gallery/rg5.jpg',
+  '/images/Gallery/rg6.jpg',
+  '/images/Gallery/rg7.jpg',
+  '/images/Gallery/rg8.jpg',
 ];
 
 export default function Gallery() {

@@ -4,22 +4,22 @@ const programs = [
   {
     title: 'School Activities',
     description: 'Nurturing curiosity and creativity in our youngest learners through play-based learning and hands-on exploration.',
-    image: '/src/Images/sc1.jpg',
+    image: '/images/sc1.jpg',
   },
   {
     title: 'Sports',
     description: 'Building strong foundations in core subjects while developing critical thinking, collaboration, and communication skills.',
-    image: '/src/Images/sc2.jpg',
+    image: '/images/sc2.jpg',
   },
   {
     title: 'School Clubs',
     description: 'Preparing students for university and beyond with rigorous academics, leadership opportunities, and career guidance.',
-    image: '/src/Images/sc3.jpg',
+    image: '/images/sc3.jpg',
   },
   {
     title: 'School Events',
     description: 'Preparing students for university and beyond with rigorous academics, leadership opportunities, and career guidance.',
-    image: '/src/Images/sc4.jpg',
+    image: '/images/sc4.jpg',
   },
 ];
 

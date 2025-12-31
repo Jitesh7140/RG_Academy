@@ -64,7 +64,7 @@ export default function Navbar() {
           {/* LOGO */}
           <Link to="/" className="flex items-center gap-2">
             <img
-              src="/src/Images/home-logo2.png"
+              src="/images/home-logo2.png"
               alt="Global School Logo"
               className={`transition-all duration-300 ${
                 scrolled ? "h-12 md:h-14" : "h-16 md:h-14"
